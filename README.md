@@ -1,7 +1,7 @@
 </br><b>BubbleShape-ImageView</b> Es un sistema que te permitira crear imagenes con la forma de una burbuja. Ideal para Apps de mensajeria.
     </br> </br>
     
-    <img src="./Preview/preview1.gif" width=300 title="Screen">
+<img src="./Preview/preview1.gif" width=300 title="Screen">
     
 ## Importación
  
